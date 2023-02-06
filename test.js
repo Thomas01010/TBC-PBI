@@ -1,3 +1,1 @@
-document.getElementById("foo").addEventListener('click', function () {
-    alert('Hey, you clicked the div!');
-});
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
