@@ -1,7 +1,7 @@
 {
   "icon": "https://components.connect.trimble.com/trimble-connect-workspace-api/examples/logo192.png",
-  "title": "PowerApp",
-  "url": "https://thomas01010.github.io/TBC-PBI/index.html",
+  "title": "MyApp",
+  "url": "https://thomas01010.github.io/TBC-PBI-2/",
   "description": "Power App test",
   "configCommand" : "do_config",
   "enabled": true,
