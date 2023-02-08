@@ -1,0 +1,8 @@
+{
+  "icon": "https://components.connect.trimble.com/trimble-connect-workspace-api/examples/logo192.png",
+  "title": "UWA Project Extension",
+  "url": "https://components.connect.trimble.com/trimble-connect-workspace-api/examples/index.html",
+  "description": "UWA project extension react example app",
+  "configCommand": "do_config",
+  "enabled": true
+}
