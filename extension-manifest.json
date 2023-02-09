@@ -1,7 +1,7 @@
 {
   "icon": "https://components.connect.trimble.com/trimble-connect-workspace-api/examples/logo192.png",
   "title": "MyApp",
-  "url": "https://file.io/MTDXnGf1ixN4",
+  "url": "https://app.powerbi.com/reportEmbed?reportId=be9432bc-6906-45b7-9f05-e4b1996551be&autoAuth=true&ctid=be0be093-a2ad-444c-93d9-5626e83beefc",
   "description": "Power App test",
   "configCommand" : "do_config",
   "enabled": true,
