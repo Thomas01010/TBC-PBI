@@ -3,6 +3,5 @@
   "title": "MyApp",
   "url": "https://thomas01010.github.io/TBC-PBI-2/",
   "description": "Power App test",
-  "configCommand" : "do_config",
   "enabled": true,
 }
