@@ -3,6 +3,5 @@
   "title": "MyApp",
   "url": "https://app.powerbi.com/reportEmbed?reportId=9cd3befd-0c2b-4883-95db-287e66ffdc20",
   "description": "Power App test",
-  "configCommand" : "do_config",
   "enabled": true,
 }
