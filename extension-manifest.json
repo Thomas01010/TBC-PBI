@@ -1,7 +1,7 @@
 {
   "icon": "https://components.connect.trimble.com/trimble-connect-workspace-api/examples/logo192.png",
   "title": "MyApp",
-  "url": "https://www.tbc-llvrn2gbl-thomas01010.vercel.app/index.html",
+  "url": "https://tbc-cp.vercel.app/index.html",
   "description": "Power App test",
   "enabled": true,
 }
