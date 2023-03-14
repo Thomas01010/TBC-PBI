@@ -1,7 +1,8 @@
 {
   "icon": "https://components.connect.trimble.com/trimble-connect-workspace-api/examples/logo192.png",
   "title": "MyApp",
-  "url": "https://aquamarine-lolly-48af2b.netlify.app/index.html",
+  "url": "https://tbc-cp.vercel.app/",
   "description": "Power App test",
+  "configCommand": "do_config",
   "enabled": true,
 }
