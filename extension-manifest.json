@@ -3,6 +3,5 @@
   "title": "MyApp",
   "url": "https://tbc-cp.vercel.app/index.html",
   "description": "Power App test",
-  "configCommand": "do_config",
   "enabled": true
 }
